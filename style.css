@@ -1,0 +1,29 @@
+body {
+    background-color: #0a0a0a; /* Fundo preto elegante */
+    color: #ffffff;
+    font-family: 'Segoe UI', sans-serif;
+    text-align: center;
+}
+
+h1, h2 { color: #c5a059; } /* Dourado da sua logo */
+
+button {
+    background: transparent;
+    border: 1px solid #c5a059;
+    color: #c5a059;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    background: #c5a059;
+    color: #000;
+}
+
+#carrinho {
+    margin-top: 30px;
+    border-top: 1px solid #c5a059;
+    padding: 20px;
+}
